@@ -1,0 +1,319 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_1 {
+}
+.box_2 {
+}
+.ellipse {
+}
+.image {
+}
+.button_header_white {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-size:18px;
+  color:rgba(255, 255, 255, 0.8);
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.heading_1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:200;
+  font-size:28px;
+  text-align:left;
+}
+.flow_shape {
+}
+.h1_screen {
+  font-family:'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue';
+  font-weight:100;
+  font-style:normal;
+  font-size:72px;
+  color:#000000;
+  text-align:center;
+}
+.h2_screen {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:normal;
+  font-size:36px;
+  text-align:center;
+}
+.h1_screen_white {
+  font-family:'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue';
+  font-weight:100;
+  font-style:normal;
+  font-size:60px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.h2_screen_white {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:normal;
+  font-size:36px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.main_menu_link {
+}
+.h2_footer {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:200;
+  font-style:normal;
+  font-size:36px;
+  text-align:left;
+}
+.h3_footer {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:200;
+  font-style:normal;
+  font-size:28px;
+  text-align:left;
+}
+.icon {
+}
+.text_field {
+  font-family:'Roboto-Regular', 'Roboto';
+  font-size:20px;
+  color:#333333;
+  text-align:center;
+}
+.radio_button {
+  text-align:left;
+}
+.line {
+}
+.main_menu_link_white {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:normal;
+  font-style:normal;
+  font-size:18px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.black_box {
+}
+.check_steps_on {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:200;
+  font-style:normal;
+  font-size:28px;
+  text-align:left;
+}
+.image1 {
+  font-size:13px;
+  color:#000000;
+}
+.h3_screen {
+  font-family:'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue';
+  font-weight:100;
+  font-style:normal;
+  font-size:48px;
+  color:#000000;
+  text-align:center;
+}
+.image2 {
+  color:#000000;
+}
+.box_21 {
+}
+.order_link_black_center {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:normal;
+  font-style:normal;
+  font-size:18px;
+  color:#000000;
+  text-align:center;
+}
+.h2_screen_white_1020 {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:normal;
+  font-style:normal;
+  font-size:20px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.h2_screen_1020 {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:normal;
+  font-size:20px;
+  text-align:center;
+}
+.h3_footer_1020 {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:normal;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.h2_footer_1020 {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:normal;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.main_menu_link_white_320 {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:normal;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.h2_screen_white_320 {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.h2_screen_320 {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:normal;
+  font-size:18px;
+  text-align:center;
+}
+.new_style {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:normal;
+  font-size:20px;
+  text-align:center;
+}
+.h1_screen_1020 {
+  font-family:'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue';
+  font-weight:100;
+  font-style:normal;
+  font-size:36px;
+  color:#000000;
+  text-align:center;
+}
+.h1_screen_white_1020 {
+  font-family:'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue';
+  font-weight:100;
+  font-style:normal;
+  font-size:36px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.h3_screen_1020 {
+  font-family:'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue';
+  font-weight:100;
+  font-style:normal;
+  font-size:28px;
+  color:#000000;
+  text-align:center;
+}
+.check_step_1020 {
+}
+.h1_screen_white_320 {
+  font-family:'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue';
+  font-weight:100;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.h1_screen_320 {
+  font-family:'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue';
+  font-weight:100;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
+  text-align:center;
+}
+.h3_screen_320 {
+  font-family:'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue';
+  font-weight:100;
+  font-style:normal;
+  font-size:10px;
+  color:#000000;
+  text-align:center;
+}
+.text_field_320 {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-size:12px;
+  color:#333333;
+  text-align:center;
+}
+.paragraph_320 {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:200;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.check_step_on_320 {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:normal;
+  font-style:normal;
+  font-size:8px;
+  text-align:left;
+}
+.radio_button_320 {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-size:10px;
+  text-align:left;
+}
+.schema_line {
+}
+.h2_footer_320 {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:normal;
+  font-style:normal;
+  font-size:20px;
+  text-align:center;
+}
+.h3_footer_320 {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:normal;
+  font-style:normal;
+  font-size:18px;
+  text-align:center;
+}
